@@ -1,12 +1,8 @@
-#include <stdio.h>                                             
+#include <stdio.h>
 
-                                                               
-
-/**                                                            
-
- * main - Prints reversed alphabet.                            
-
- *     
+/**
+ * main - Prints reversed alphabet.
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
