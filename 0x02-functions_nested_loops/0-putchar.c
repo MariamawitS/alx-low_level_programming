@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - entry block 
+ * main - entry block
  * @void: no argument
  * Return: 0
  **/
